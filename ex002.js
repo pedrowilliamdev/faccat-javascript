@@ -1,0 +1,5 @@
+alert("Dimensões de um retângulo")
+let base = prompt("Digite a base do retângulo: ")
+let altura = prompt("Digite a altura do retângulo: ")
+let area = base * altura
+alert("A área do retângulo é " + area)
